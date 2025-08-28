@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180.79 25.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c9b885;
+        stroke-miterlimit: 10;
+        stroke-width: .79px;
+      }
+
+      .cls-2 {
+        fill: #cec8ba;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #969289;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-3" x=".39" y=".39" width="180" height="25"/>
+      <g>
+        <polygon class="cls-2" points="20.62 25.39 7.46 25.39 14.04 .39 27.2 .39 20.62 25.39"/>
+        <polygon class="cls-2" points="46.1 25.39 32.94 25.39 39.52 .39 52.69 .39 46.1 25.39"/>
+        <polygon class="cls-2" points="71.59 25.39 58.43 25.39 65.01 .39 78.17 .39 71.59 25.39"/>
+        <polygon class="cls-2" points="97.07 25.39 83.91 25.39 90.49 .39 103.65 .39 97.07 25.39"/>
+        <polygon class="cls-2" points="122.56 25.39 109.39 25.39 115.97 .39 129.14 .39 122.56 25.39"/>
+        <polygon class="cls-2" points="148.04 25.39 134.88 25.39 141.46 .39 154.62 .39 148.04 25.39"/>
+        <polygon class="cls-2" points="173.52 25.39 160.36 25.39 166.94 .39 180.1 .39 173.52 25.39"/>
+      </g>
+      <rect class="cls-1" x=".39" y=".39" width="180" height="25"/>
+    </g>
+  </g>
+</svg>
