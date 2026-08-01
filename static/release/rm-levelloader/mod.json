@@ -1,0 +1,37 @@
+{
+  "Name": "rm-levelloader",
+  "Authors": [
+    "RealityMod Dev Team"
+  ],
+  "Description": "Load custom levels created using MapEditor",
+  "URL": "https://github.com/BF3RM/CustomLevelLoader",
+  "Version": "0.7.9",
+  "HasWebUI": false,
+  "HasVeniceEXT": true,
+  "Dependencies": {
+    "veniceext": "^1.1.0"
+  },
+  "Superbundles": [
+    "Win32/CustomLevels/MP_007/MP_007",
+    "Win32/CustomLevels/MP_012/MP_012",
+    "Win32/CustomLevels/XP1_001/XP1_001",
+    "Win32/CustomLevels/XP1_002/XP1_002",
+    "Win32/CustomLevels/XP1_003/XP1_003",
+    "Win32/CustomLevels/XP1_004/XP1_004",
+    "Win32/CustomLevels/XP2_Factory/XP2_Factory",
+    "Win32/CustomLevels/XP2_Palace/XP2_Palace",
+    "Win32/CustomLevels/XP2_Skybar/XP2_Skybar",
+    "Win32/CustomLevels/XP3_Alborz/XP3_Alborz",
+    "Win32/CustomLevels/XP3_Desert/XP3_Desert",
+    "Win32/CustomLevels/XP3_Shield/XP3_Shield",
+    "Win32/CustomLevels/XP3_Valley/XP3_Valley",
+    "Win32/CustomLevels/XP4_FD/XP4_FD",
+    "Win32/CustomLevels/XP4_Parl/XP4_Parl",
+    "Win32/CustomLevels/XP4_Quake/XP4_Quake",
+    "Win32/CustomLevels/XP4_Rubble/XP4_Rubble",
+    "Win32/CustomLevels/XP5_001/XP5_001",
+    "Win32/CustomLevels/XP5_002/XP5_002",
+    "Win32/CustomLevels/XP5_003/XP5_003",
+    "Win32/CustomLevels/XP5_004/XP5_004"
+  ]
+}
