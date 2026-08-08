@@ -1,0 +1,17 @@
+{
+	"Name": "RealityMod",
+	"Authors": ["BF3: Reality Mod Development Team"],
+	"Description": "A 'Project Reality'-Style mod for Battlefield 3",
+	"URL": "https://github.com/BF3RM",
+	"Version": "0.997.7",
+	"HasWebUI": true,
+	"HasVeniceEXT": true,
+	"Tags": ["realitymod"],
+	"Dependencies": {
+		"veniceext": "^1.13.0",
+		"rm-levelloader": "^0.7.9",
+		"blueprintmanager": "^1.1.1",
+		"VEManager": "^0.5.7"
+	},
+	"RequiredXPacks": [ 1, 2, 3, 4, 5 ]
+}
